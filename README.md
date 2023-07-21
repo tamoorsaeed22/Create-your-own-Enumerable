@@ -79,7 +79,7 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  cd my-folder
+  cd create_enumerable
   git clone git@github.com:tamoorsaeed22/Create-your-own-Enumerable.git
 ```
 
@@ -89,30 +89,18 @@ Clone this repository to your desired folder:
 Install this project with:
 
 
-```sh
-  cd Create-your-own-Enumerable
-  npm install
-```
-
 ### Usage
 
 To run the project, execute the following command:
 
-```sh
-  npm start
+```
+   ruby my_list.rb
 ```
 
 
 ### Run tests
 
 To run tests, run the following command:
-
-
-```sh
-  npm test
-  Press a to run all test
-```
-
 
 ### Deployment
 
