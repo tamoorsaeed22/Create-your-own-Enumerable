@@ -33,7 +33,7 @@
   - [📝 License ](#-license-)
 
 
-# 📖 [Decode a Morse code message] <a name="about-project"></a>
+# 📖 [Create-your-own-Enumerable] <a name="about-project"></a>
 Create your own Enumerable is a project to create a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable.
 ## 🛠 Built With <a name="built-with"></a>
 Ruby
