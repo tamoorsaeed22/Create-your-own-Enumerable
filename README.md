@@ -68,16 +68,13 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Web browser
-- Code editor
-- Good internet connection
+- Ruby installed and running.
+- You should be able to use IRB.
+
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-
-
 ```sh
   cd create_enumerable
   git clone git@github.com:tamoorsaeed22/Create-your-own-Enumerable.git
@@ -87,7 +84,10 @@ Clone this repository to your desired folder:
 ### Install
 
 Install this project with:
-
+```
+cd cd Create-your-own-Enumerable
+gem install
+```
 
 ### Usage
 
@@ -101,7 +101,9 @@ To run the project, execute the following command:
 ### Run tests
 
 To run tests, run the following command:
-
+```
+- Run rubocop
+```
 ### Deployment
 
 You can deploy this project using:
